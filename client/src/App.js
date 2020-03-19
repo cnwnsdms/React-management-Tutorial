@@ -46,7 +46,6 @@ const customer =[
   }
 ]
 
-class App extends Component {
   render (){
     const { classes } = this.props;
     return(
